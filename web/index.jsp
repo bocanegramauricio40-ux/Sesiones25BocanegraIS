@@ -31,7 +31,7 @@
                 <link rel="stylesheet" type="text/css" href="css/ventanas.css">
 <!-----------------------------/BOOTSTRAP----------------------------->
     </head>
-    <body>
+    <body style="background-color: #269abc">
         <!-- HEADER -------------------------------------------------------------------->
                 <header>
                         <!-- MAIN HEADER -->
